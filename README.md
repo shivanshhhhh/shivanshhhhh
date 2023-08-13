@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Shivansh </h1>
+
+I am a tech enthusiast, currently pursuing B.Tech in Electronics and Communications Engineering from IIT Guwahati.
